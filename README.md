@@ -32,7 +32,6 @@
 
 ## 📫 Связаться со мной:
 - Telegram: [@zhandos717](https://t.me/zhandos717)
-- Email: zhandos717@gmail.com
-- LinkedIn / Instagram / другие ссылки — по желанию
+- Instagram [@zhandos.zh.zh](https://www.instagram.com/zhandos.zh.zh/)
 
 ---

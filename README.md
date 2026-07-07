@@ -2,6 +2,11 @@
 
 Software engineer from Kazakhstan 🇰🇿 building reliable, scalable systems in **Go**, **PHP** and **JavaScript**.
 
+- 🔭 Backend, distributed systems, real-time comms & developer tooling
+- 🧪 Also tinkering with Rust, Swift, Kotlin & Dart
+- 🗣️ Kazakh · Russian · English
+- 📫 Reach me: [Telegram](https://t.me/zhandos717) · [LinkedIn](https://linkedin.com/in/zhandos717)
+
 ---
 
 ## 💻 Tech Stack
@@ -40,6 +45,15 @@ Software engineer from Kazakhstan 🇰🇿 building reliable, scalable systems i
 ![](https://github-readme-stats.vercel.app/api?username=zhandos717&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zhandos717&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhandos717&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🏆 Trophies
+![](https://github-profile-trophy.vercel.app/?username=zhandos717&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+### 📈 Activity
+![](https://github-readme-activity-graph.vercel.app/graph?username=zhandos717&theme=react-dark&hide_border=true&area=true)
+
+### 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/zhandos717/zhandos717/output/snake.svg)
 
 ---
 
